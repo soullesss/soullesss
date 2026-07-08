@@ -18,6 +18,4 @@ Atualmente estudando:
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox)
 
-## 📊 Estatísticas
-
-![](https://github-readme-stats.vercel.app/api?username=soullesss&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soullesss&show_icons=true&theme=github_dark&hide_border=true)
