@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o soullesss
 
-<!--
-**soullesss/soullesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em Python, automação, redes e desenvolvimento de ferramentas CLI.
 
-Here are some ideas to get you started:
+Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Python
+-  Automação
+-  Redes
+-  Segurança ofensiva e defensiva
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua)
+
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?logo=roblox)
