@@ -20,3 +20,5 @@ Atualmente estudando:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua)
 
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?logo=roblox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soullesss&layout=compact&theme=github_dark)
